@@ -34,7 +34,7 @@ o si estas en cualquier otro IDE actualizar las dependecias del maven para que p
 
 ## Ejecución
 
-* Dentro del IDE buscar el main que se encuentra en la clase EntelgyServiceApplication.java darle click derecho y hacer correr programa (Run as Java Application) 
+* Dentro del IDE buscar el main que se encuentra en la clase EntelgyServiceApplication.java darle click derecho y hacer correr programa (Run as -> SpringBoot App) 
 
 * Para configuracion de puerto o rutas dirigirse a resources/application.properties
 
